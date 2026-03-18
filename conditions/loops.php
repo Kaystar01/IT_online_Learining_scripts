@@ -43,4 +43,16 @@ foreach ($fruits as $fruit) {
     echo "Fruit: $fruit<br>";
     #this will loop through each element in the $fruits array and print it out
 }
+
+for ($counter = 1; $counter <= 10;
+ $counter++) {
+    if ($counter % 2 == 0) {
+        echo "Counter: $counter is even<br>";
+    } else {
+        echo "Counter: $counter is odd<br>";
+    }
+    #this will check if the counter variable is even or odd and print it out
+}
+
 ?>
+
