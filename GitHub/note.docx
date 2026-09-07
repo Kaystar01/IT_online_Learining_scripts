@@ -1,0 +1,6 @@
+ Git clone "url" - cloning projects from git 
+ git branch "new_branch" - Create a new branch on git 
+ git checkout -b "rebase"
+ git branch - to view which branch we are in 
+ git checkout "new_branch" - to move to new_branch from main*
+ 
